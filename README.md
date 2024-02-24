@@ -10,5 +10,5 @@ pip install bs4
 apt install git
 git clone
 https://github.com/YvanyLive/Saga.git
-cd HackSaga
+cd Saga
 python2 saga.py
